@@ -1,0 +1,115 @@
+{
+	"main": {
+		"name": "Oliver  Mensah",
+		"occupation": "Web developer, programmer and designer",
+		"description": "I design and program websites and web applications of all types.",
+		"image": "profilepic.jpg",
+		"bio": "I am Computer Science student  and would-be senior at Ashesi University, hopefully graduating in summer 2018.During summer 2016,I interned as a software developer for iSpace Foundation, where I worked on a project meant to hub dataset about Ghana.My Computer Science interests include artificial intelligence,distributed systems,web application development and virtual reality.",
+		"email": "olivermensah96@gmail.com",
+		"phone": "(+233)0544892841",
+		"address": {
+			"street": "Kwabenya",
+			"city": "Accra",
+			"region": "Greater Accra",
+			"country": "Ghana"
+		},
+		"website": "https://omensah.github.io",
+		"resumedownload": "https://omensah.github.io",
+		"social": [{
+				"name": "facebook",
+				"url": "https://www.facebook.com/oliver.mensah.79",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "twitter",
+				"url": "https://twitter.com/Oliver_Mensah",
+				"className": "fa fa-twitter"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://gh.linkedin.com/in/olivermensah",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "github",
+				"url": "hhttp://github.com/OMENSAH",
+				"className": "fa fa-github"
+			},
+			{
+				"name": "skype",
+				"url": "http://skype.com/omensah08",
+				"className": "fa fa-skype"
+			}
+		]
+	},
+	"resume": {
+		"education": [{
+				"school": "Aseshi Universitty College",
+				"degree": "BSC. Computer Science",
+				"graduated": "May 2018",
+				"description": "Ashesi's Computer Science programme focuses not only on software design and programming, but also on empowering young people to be at the forefront of African growth by harnessing the power of technology."
+			},
+			{
+				"school": "Sefwi Bekwai Senior High School",
+				"degree": "Agriculture Science(WASSCE)",
+				"graduated": "May 2012",
+				"description": " "
+			}
+		],
+		"work": [{
+				"company": "iSpace Foundation",
+				"title": "Software Developer | Summer Intern",
+				"years": "June 2016 - Sept 2016",
+				"description": "As  a developer, I worked with a team of 3 to develop a software to hub data about Ghana "
+			},
+			{
+				"company": "Cloud Port",
+				"title": "Technical Officer || Summer Intern",
+				"years": "June 2017 - Sept 2017",
+				"description": "Working a software Developer  and API Designer"
+			}
+		],
+		"skills": [{
+				"name": "PHP and Laravel",
+				"level": "80%"
+			},
+			{
+				"name": "JavaScript, React and Nodejs",
+				"level": "80%"
+			},
+			{
+				"name": "CSS",
+				"level": "90%"
+			},
+			{
+				"name": "HTML5",
+				"level": "80%"
+			},
+			{
+				"name": "BootStrap, Materializecss",
+				"level": "80%"
+			},
+			{
+				"name": "Golang",
+				"level": "60%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [{
+			"title": "",
+			"description": "",
+			"category": "",
+			"tags": "",
+			"image": "",
+			"url": "",
+			"modal": ""
+		}]
+	},
+	"testimonials": {
+		"testimonials": [{
+			"text": "",
+			"user": ""
+		}]
+	}
+}
