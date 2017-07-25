@@ -44,8 +44,8 @@
 	},
 	"resume": {
 		"education": [{
-				"school": "Aseshi Universitty College",
-				"degree": "BSC. Computer Science",
+				"school": "Ashesi Universitty College",
+				"degree": "Bsc. Computer Science",
 				"graduated": "May 2018",
 				"description": "Ashesi's Computer Science programme focuses not only on software design and programming, but also on empowering young people to be at the forefront of African growth by harnessing the power of technology."
 			},
@@ -74,7 +74,7 @@
 				"level": "80%"
 			},
 			{
-				"name": "JavaScript, React and Nodejs",
+				"name": "JavaScript, React, Angular, Electron, Nodejs",
 				"level": "80%"
 			},
 			{
