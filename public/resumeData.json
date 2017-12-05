@@ -2,7 +2,7 @@
 	"main": {
 		"name": "Oliver  Mensah",
 		"occupation": "Computer Programmer",
-		"description": "I design and program websites and web applications of all types.",
+		"description": "I currently develop mobile apps, desktop, web Applications as well as web services and API's.",
 		"image": "profilepic.jpg",
 		"bio": "I am Computer Science student  and would-be senior at Ashesi University, hopefully graduating in summer 2018.During summer 2016,I interned as a software developer for iSpace Foundation, where I worked on a project meant to hub dataset about Ghana.My Computer Science interests include artificial intelligence,distributed systems,web application development and virtual reality.",
 		"email": "olivermensah96@gmail.com",
@@ -56,18 +56,26 @@
 				"description": " "
 			}
 		],
-		"work": [{
+		"work": [
+			{
+				"company": "Facebook",
+				"title": "Facebook Developer Circle Accra, Co-Lead",
+				"years": "August 2017 - Present",
+				"description": "Developer Circles is a community-driven program that's free to join and open to coders, programmers, Software Developers, students, etc. Each Developer Circle is led by members of the local community who act as leads for the circle, organizing events offline and managing a local online Facebook community.  Developer Circles are forums to share knowledge, collaborate, build new ideas, and learn about the latest technologies from Facebook and other industry leaders.  As a Co-Lead,  I coordinate with Facebook on promoting the ecosystem of technology in Ghana, organize technology events like Meetups, Hackathons, train other developers on Facebook Technologies like React, React Native, etc"
+			},
+			{
 				"company": "iSpace Foundation",
 				"title": "Software Developer | Summer Intern",
 				"years": "June 2016 - Sept 2016",
-				"description": "As  a developer, I worked with a team of 3 to develop a software to hub data about Ghana "
+				"description": "worked with a team of 3 to develop a platform to help in data collation and analysis. We used Go to handle the backend"
 			},
 			{
 				"company": "Cloud Port",
 				"title": "Technical Officer || Summer Intern",
 				"years": "June 2017 - Sept 2017",
-				"description": "Working a software Developer  and API Designer"
+				"description": "Worked with a team of 5 during my internship.  I was responsible for creating web services with Golang. Later, trained 3 newly interns on Golang, in order to contribute to the project we were working on."
 			}
+			
 		],
 		"skills": [{
 				"name": "PHP and Laravel",
