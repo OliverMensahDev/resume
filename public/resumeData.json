@@ -1,7 +1,7 @@
 {
 	"main": {
 		"name": "Oliver  Mensah",
-		"occupation": "Web developer, programmer and designer",
+		"occupation": "Computer Programmer",
 		"description": "I design and program websites and web applications of all types.",
 		"image": "profilepic.jpg",
 		"bio": "I am Computer Science student  and would-be senior at Ashesi University, hopefully graduating in summer 2018.During summer 2016,I interned as a software developer for iSpace Foundation, where I worked on a project meant to hub dataset about Ghana.My Computer Science interests include artificial intelligence,distributed systems,web application development and virtual reality.",
@@ -32,7 +32,7 @@
 			},
 			{
 				"name": "github",
-				"url": "hhttp://github.com/OMENSAH",
+				"url": "https://github.com/OMENSAH",
 				"className": "fa fa-github"
 			},
 			{
@@ -44,7 +44,7 @@
 	},
 	"resume": {
 		"education": [{
-				"school": "Ashesi Universitty College",
+				"school": "Ashesi University College",
 				"degree": "Bsc. Computer Science",
 				"graduated": "May 2018",
 				"description": "Ashesi's Computer Science programme focuses not only on software design and programming, but also on empowering young people to be at the forefront of African growth by harnessing the power of technology."
@@ -74,7 +74,7 @@
 				"level": "80%"
 			},
 			{
-				"name": "JavaScript, React, Angular, Electron, Nodejs",
+				"name": "JavaScript, React, Angular, Electron, Nodejs(Express)",
 				"level": "80%"
 			},
 			{
