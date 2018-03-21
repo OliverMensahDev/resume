@@ -8,7 +8,7 @@ class Portfolio extends Component {
         if(project.title !=""){
           return <div className="columns portfolio-item">
            <div className="item-wrap">
-              <a href={project.modal} title="">
+              <a href={project.url} target="_blank">
                  <img alt="" src={imageUrl} />
                  <div className="overlay">
                     <div className="portfolio-item-meta">
@@ -28,7 +28,7 @@ class Portfolio extends Component {
       <section id="portfolio">
       <div className="row">
          <div className="twelve columns collapsed">
-            {/* <h1>Check Out Some of My Works.</h1> */}
+            <h1>Check Out Some of My Works.</h1>
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
           	   {portfolio}
             </div>
