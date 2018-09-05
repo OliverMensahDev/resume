@@ -1,10 +1,10 @@
 {
 	"main": {
 		"name": "Oliver  Mensah",
-		"occupation": "Student Developer",
+		"occupation": "Software Developer",
 		"description": "He currently develops mobile apps, desktop, web Applications as well as web services and API's.",
 		"image": "profilepic.jpg",
-		"bio": "Oliver is senior at Ashesi University majoring in Computer Science. Hopefully, he will graduating in summer 2018. During summer 2016, he interned as a software developer for iSpace Foundation, where he worked on a project meant to hub dataset about Ghana. His Computer Science interests include artificial intelligence,distributed systems, mobile and web application development",
+		"bio": "Oliver now writes software at AgroInnova as a National Service Personnel. He studied Computer Science  with his interests in artificial intelligence,distributed systems, mobile and web application development",
 		"email": "olivermensah96@gmail.com",
 		"phone": "(+233)0544892841",
 		"address": {
@@ -14,7 +14,7 @@
 			"country": "Ghana"
 		},
 		"website": "https://omensah.github.io",
-		"resumedownload": "https://omensah.github.io",
+		"resumedownload": "https://www.dropbox.com/s/2pluv2af2jtqwjo/Oliver_Mensah_Resume.pdf?dl=0",
 		"social": [{
 				"name": "facebook",
 				"url": "https://www.facebook.com/oliver.mensah.79",
@@ -57,6 +57,12 @@
 			}
 		],
 		"work": [
+			{
+				"company": "AgroInnova",
+				"title": "Software Developing",
+				"years": "August 2018 - Present",
+				"description": "Writing Software that improves the agricultural space in Ghana "
+			},
 			{
 				"company": "Auth0",
 				"title": "Guest Author",
@@ -112,7 +118,7 @@
 			,
 			{
 				"name": "Mobile App Development with Android",
-				"level": "50%"
+				"level": "80%"
 			}
 			
 		]
@@ -140,9 +146,15 @@
 		]
 	},
 	"testimonials": {
-		"testimonials": [{
-			"text": "",
-			"user": ""
-		}]
+		"testimonials": [
+		{
+			"text": "I  have programmed using PHP for more than 5 years but after the Facebook Developer Circles ReactJS workshop last weekend, i think Oliver Mensah has placed me on my path to developing with React.",
+			"user": "Kweku Bright"
+		},
+		{
+			"text": "Last Saturday at a Developer Circles from Facebook, Hands on React Js session with Oliver Mensah. Great stuff. Great teacher. Excited to learn more. I found the use of spread and rest operators are quite impressive.Can’t wait for the next meet up.",
+			"user": "Christiana A. Asare"
+		}
+	]
 	}
 }
