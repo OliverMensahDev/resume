@@ -1,15 +1,5 @@
 import React, { Component } from 'react';
-import firebase from 'firebase';
-var config = {
-  apiKey: "AIzaSyD54j8WJZ54UjIp3LN_jvLEwJvCOB8DcxQ",
-  authDomain: "omensahgithubresume.firebaseapp.com",
-  databaseURL: "https://omensahgithubresume.firebaseio.com",
-  projectId: "omensahgithubresume",
-  storageBucket: "omensahgithubresume.appspot.com",
-  messagingSenderId: "375687604113"
-};
-firebase.initializeApp(config);
-
+import $ from 'jquery';
 class Contact extends Component {
   constructor(){
     super();
@@ -29,11 +19,28 @@ class Contact extends Component {
     if(name !="" || email != ""|| subject !="" || message !=""){
       this.setState({name, email,  subject, message}, 
         ()=>{
-          firebase.database().ref("messages").push(this.state).then(
-            data=>{
-              alert("You meessage is sent");
+          $.ajax({
+            type: "POST",
+            url: "https://mandrillapp.com/api/1.0/messages/send.json",
+            data: {
+              "key": '',
+              "message": {
+                "from_email": this.state.subject,
+                "to": [
+                    {
+                     'email':"olivermensah96@gmail.com",
+                      'name': "Oliver Mensah",
+                      'type': 'to'
+                    }
+                  ],
+                'autotext': 'true',
+                'subject': this.state.subject,
+                'html': this.state.message
+              }
             }
-          ).catch(err=> alert(err));
+           }).done(function(response) {
+             console.log(response); // if you're into that sorta thing
+           });
         })
     }
    

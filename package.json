@@ -4,14 +4,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "firebase": "^4.7.0",
-    "jquery": "^3.2.1",
-    "prop-types": "^15.5.10",
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "jquery": "3.2.1",
+    "prop-types": "15.5.10",
+    "react": "15.5.4",
+    "react-dom": "15.5.4"
   },
   "devDependencies": {
-    "gh-pages": "^1.0.0",
+    "gh-pages": "1.0.0",
     "react-scripts": "1.0.6"
   },
   "scripts": {
