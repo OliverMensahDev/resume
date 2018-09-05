@@ -46,14 +46,14 @@
 		"education": [{
 				"school": "Ashesi University College",
 				"degree": "Bsc. Computer Science",
-				"graduated": "May 2018",
+				"graduated": "June 2018",
 				"description": "Ashesi's Computer Science programme focuses not only on software design and programming, but also on empowering young people to be at the forefront of African growth by harnessing the power of technology."
 			},
 			{
 				"school": "Sefwi Bekwai Senior High School",
 				"degree": "Agriculture Science(WASSCE)",
 				"graduated": "May 2012",
-				"description": " "
+				"description": ""
 			}
 		],
 		"work": [
