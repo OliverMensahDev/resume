@@ -2,22 +2,22 @@
 	"main": {
 		"name": "Oliver  Mensah",
 		"occupation": "Software Developer",
-		"description": "He currently develops mobile apps, desktop, web Applications as well as web services and API's.",
-		"image": "profilepic.jpg",
-		"bio": "Oliver now writes software at AgroInnova as a National Service Personnel. He studied Computer Science  with his interests in artificial intelligence,distributed systems, mobile and web application development",
+		"description": "He currently develops  Mobile apps(Android), Desktop, Web Applications as well as Web services and APIs. If he is not working on a software project, he is either writing technical articles, reading on software architecture and design or actively involved in building the tech ecosystem in Ghana.  He lives by the mantra; 'The best way to solidify your understanding of what you learn is by teaching it to others',",
+		"bio": "Oliver now writes software at Agro Innova as a National Service Personnel. He is passionate about the people and technical aspect of the software industry. By 'people' he meant the developer community and by 'technical' he meant the whole design and implementation of technical decisions of software application.",
 		"email": "olivermensah96@gmail.com",
+		"image": "profilepic.jpg",
 		"phone": "(+233)0544892841",
 		"address": {
-			"street": "Kwabenya",
+			"street": "Acheampong Junction, East Legon",
 			"city": "Accra",
 			"region": "Greater Accra",
 			"country": "Ghana"
 		},
 		"website": "https://omensah.github.io",
-		"resumedownload": "https://www.dropbox.com/s/2pluv2af2jtqwjo/Oliver_Mensah_Resume.pdf?dl=0",
+		"resumedownload": "https://www.dropbox.com/s/d0dqiasms15ikzn/Main_resume.pdf?dl=0",
 		"social": [{
 				"name": "facebook",
-				"url": "https://www.facebook.com/oliver.mensah.79",
+				"url": "https://www.facebook.com/olivermensah.me",
 				"className": "fa fa-facebook"
 			},
 			{
@@ -58,10 +58,10 @@
 		],
 		"work": [
 			{
-				"company": "AgroInnova",
-				"title": "Software Developing",
+				"company": "Agro Innova",
+				"title": "National Service Personnel, Software Developer",
 				"years": "August 2018 - Present",
-				"description": "Writing Software that improves the agricultural space in Ghana "
+				"description": "Writing Software that improves the agricultural space in Ghana. During my work at Agro Innova, I had developed a mobile application that was geared towards data collection of poultry farmers in Ghana. This project was in partnership between Agro Innova and Ghana National Association of Poultry Farmers."
 			},
 			{
 				"company": "Auth0",
@@ -91,36 +91,42 @@
 		],
 		"skills": [
 			{
-				"name": "FrontEnd Development with HTML5, CSS3 and Some FrontEnd Frameworks(BootStrap)",
+				"name": "Polyglot(Work with any programming language - Just have to learn it)",
 				"level": "100%"
 			},
 			{
-				"name": "FrontEnd Development with ReactJs, Angular",
+				"name": "Problem Solving",
+				"level": "100%"
+			},
+			{
+				"name": "Algorithm Design and Analysis",
 				"level": "90%"
 			},
 			{
-				"name": "Web Development in PHP including Its Frameworks like CakePHP,",
+				"name": "Software Design and Implementation",
 				"level": "90%"
 			},
 			{
-				"name": "Web Development in JavaScript and Node.js",
+				"name": "Webservices Design and Implementation",
 				"level": "80%"
 			},
 			{
 				"name": "API Design and Documentation",
 				"level": "70%"
+			},
+			{
+				"name": "Desktop Development",
+				"level": "70%"
+			},
+			{
+				"name": "Web Development",
+				"level": "70%"
 			}
 			,
 			{
-				"name": "Mobile App Development with React Native",
-				"level": "60%"
-			}
-			,
-			{
-				"name": "Mobile App Development with Android",
+				"name": "Android Development with Java and Kotlin",
 				"level": "80%"
-			}
-			
+			}			
 		]
 	},
 	"portfolio": {
