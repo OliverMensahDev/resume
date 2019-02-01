@@ -14,7 +14,7 @@
 			"country": "Ghana"
 		},
 		"website": "https://omensah.github.io",
-		"resumedownload": "https://www.dropbox.com/s/d0dqiasms15ikzn/Main_resume.pdf?dl=0",
+		"resumedownload": "https://www.dropbox.com/s/n7ugo0v1tqs13pn/resume.pdf?dl=0",
 		"social": [{
 				"name": "facebook",
 				"url": "https://www.facebook.com/olivermensah.me",
@@ -43,7 +43,8 @@
 		]
 	},
 	"resume": {
-		"education": [{
+		"education": [
+			{
 				"school": "Ashesi University College",
 				"degree": "Bsc. Computer Science",
 				"graduated": "June 2018",
@@ -59,52 +60,110 @@
 		"work": [
 			{
 				"company": "Agro Innova",
-				"title": "National Service Personnel, Software Developer",
-				"years": "August 2018 - Present",
-				"description": "Writing Software that improves the agricultural space in Ghana. During my work at Agro Innova, I had developed a mobile application that was geared towards data collection of poultry farmers in Ghana. This project was in partnership between Agro Innova and Ghana National Association of Poultry Farmers."
+				"title": "Software Development Lead - National Service Personnel",
+				"years": "January 2019 -Present ",
+				"roles": [
+					"Design, implement and execute the overall architecture of the company’s application",
+					"Develop technical aspects of the company’s strategy to ensure alignment with its business goals",
+					"Discover and implement new technologies that yield competitive advantage",
+					"Help departments use technology profitably", 
+					"Supervise system infrastructure to ensure functionality and efficiency",
+					"Build quality assurance and data protection processes",
+					"Monitor KPIs and IT budgets to assess technological performance",
+					"Construct and implement a well comprehensive road map for our products",
+					"Use stakeholders’ feedback to inform the necessary improvements and adjustments to technology",
+					"Communicate technology strategy to partners and investors"
+				]
 			},
+			{
+				"company": "Agro Innova",
+				"title": "Software Developer - National Service Personnel",
+				"years": "September  - December 2018",
+				"roles": [
+					"Designed, implemented and executed the overall architecture of the Innovasync mobile application; data collection project for poultry farmers in Ghana.",
+					"Engaged in user testing of application in selected rural communities in Ghana",
+					"Collaborated with German Corporation for International Cooperation in a design thinking workshop geared towards digitizing cocoa farmers operations in Ghana",
+					"Designed, implemented and executed the overall architecture of the Farmer Business School mobile application; digitized cocoa farmers operations in Ghana"
+				]
+			},
+
+			{
+				"company": "WAPMASS Business School",
+				"title": "Android Application Development Trainer",
+				"years": "August 2018",
+				"roles": [
+					"Designed the curriculum for the boot-camp. ",
+					"Trained 8 participants from zero programming background to the level where they built their own projects."
+				]
+			},
+
+
 			{
 				"company": "Auth0",
 				"title": "Guest Author",
 				"years": "March 2018 - Present",
-				"description": "Writes tutorials on how to use software technologies to a wide audience. "
+				"roles": [
+					"Research the latest technologies. ",
+					"Write a technical blog post about it that will be useful for thousands of people on how to build software around those technologies"
+				]
 			},
 			{
 				"company": "Facebook",
 				"title": "Facebook Developer Circle Accra, Co-Lead",
 				"years": "August 2017 - Present",
-				"description": "Developer Circles is a community-driven program that's free to join and open to coders, programmers, Software Developers, students, etc. Each Developer Circle is led by members of the local community who act as leads for the circle, organizing events offline and managing a local online Facebook community.  Developer Circles are forums to share knowledge, collaborate, build new ideas, and learn about the latest technologies from Facebook and other industry leaders.  As a Co-Lead,  he coordinates with Facebook on promoting the ecosystem of technology in Ghana, organize technology events like Meetups, Hackathons, train other developers on Facebook Technologies like React, React Native, etc"
+				"roles": [
+					"Technology event organization",
+					"Community management" ,
+					"Build the technology scene in Ghana"
+				]		
+			},
+			{
+				"company": "DMM Ghana",
+				"title": "Software Developer Intern",
+				"years": "June 2017 - Sept 2017",
+				"roles": [
+					"Implemented RESTful Application Programming Interface for Gomani, one of the core product of DMM.Ghana",
+					"Trained 3 other interns on using GoLang to contribute to the code base of Gomani"
+				]
 			},
 			{
 				"company": "iSpace Foundation",
-				"title": "Software Developer | Summer Intern",
+				"title": "Software Developer Intern",
 				"years": "June 2016 - Sept 2016",
-				"description": "worked with a team of 3 to develop a platform to help in data collation and analysis. We used Go to handle the backend"
-			},
-			{
-				"company": "Cloud Port",
-				"title": "Technical Officer || Summer Intern",
-				"years": "June 2017 - Sept 2017",
-				"description": "Worked with a team of 5 during my internship.  I was responsible for creating web services with Golang. Later, trained 3 newly interns on Golang, in order to contribute to the project we were working on."
-			}
-			
+				"roles": [
+					"Cleaned and Munged dataset for iSpace Data Repository project",
+					"Served dataset in different formats(JSON, SQL) for public used  via iSpace Data Repository website."
+				]
+			}			
 		],
 		"skills": [
 			{
+				"name": "Technical Writing",
+				"level": "80%"
+			},
+			{
+				"name": "Public Speaking",
+				"level": "80%"
+			},
+			{
+				"name": "Leadership Skills(Technical lead)",
+				"level": "80%"
+			},
+			{
 				"name": "Polyglot(Work with any programming language - Just have to learn it)",
-				"level": "100%"
+				"level": "80%"
 			},
 			{
 				"name": "Problem Solving",
-				"level": "100%"
+				"level": "80%"
 			},
 			{
 				"name": "Algorithm Design and Analysis",
-				"level": "90%"
+				"level": "80%"
 			},
 			{
 				"name": "Software Design and Implementation",
-				"level": "90%"
+				"level": "80%"
 			},
 			{
 				"name": "Webservices Design and Implementation",

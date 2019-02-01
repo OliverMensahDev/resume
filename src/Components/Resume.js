@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import WorkRoles from './WorkRoles'
 
 class Resume extends Component {
   render() {
@@ -22,7 +23,7 @@ class Resume extends Component {
               <p className="info">{job.title}<span>&bull;</span> <em className="date">{job.years}</em></p>
 
               <p>
-              {job.description}
+               {job.roles.map((role)=> <WorkRoles role={role} />)}
               </p>
            </div>
         </div>
