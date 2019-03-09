@@ -13,32 +13,32 @@
 			"region": "Greater Accra",
 			"country": "Ghana"
 		},
-		"website": "https://omensah.github.io",
+		"website": "https://OliverMensahDev.github.io",
 		"resumedownload": "https://www.dropbox.com/s/n7ugo0v1tqs13pn/resume.pdf?dl=0",
 		"social": [{
 				"name": "facebook",
-				"url": "https://www.facebook.com/olivermensah.me",
+				"url": "https://www.facebook.com/OliverMensahDev",
 				"className": "fa fa-facebook"
 			},
 			{
 				"name": "twitter",
-				"url": "https://twitter.com/Oliver_Mensah",
+				"url": "https://twitter.com/OliverMensahDev",
 				"className": "fa fa-twitter"
 			},
 			{
 				"name": "linkedin",
-				"url": "https://gh.linkedin.com/in/olivermensah",
+				"url": "https://gh.linkedin.com/in/OliverMensahDev",
 				"className": "fa fa-linkedin"
 			},
 			{
 				"name": "github",
-				"url": "https://github.com/OMENSAH",
+				"url": "https://github.com/OliverMensahDev",
 				"className": "fa fa-github"
 			},
 			{
-				"name": "skype",
-				"url": "http://skype.com/omensah08",
-				"className": "fa fa-skype"
+				"name": "instagram",
+				"url": "https://www.instagram.com/OliverMensahDev/",
+				"className": "fa fa-instagram"
 			}
 		]
 	},
