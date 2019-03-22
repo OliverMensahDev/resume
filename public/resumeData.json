@@ -39,6 +39,11 @@
 				"name": "instagram",
 				"url": "https://www.instagram.com/OliverMensahDev/",
 				"className": "fa fa-instagram"
+			},
+			{
+				"name": "youtube",
+				"url": "https://www.youtube.com/channel/UC02RSWT41_LJ9UOM558G-1Q",
+				"className": "fa fa-youtube"
 			}
 		]
 	},
