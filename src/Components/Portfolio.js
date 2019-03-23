@@ -3,10 +3,10 @@ import React, { Component } from 'react';
 class Portfolio extends Component {
   render() {
     if(this.props.data){
-      var portfolio = this.props.data.projects.map(function(project){
+      var portfolio = this.props.data.projects.map(function(project, index){
         var imageUrl = 'images/portfolio/'+project.image;
-        if(project.title !=""){
-          return <div className="columns portfolio-item">
+        if(project.title !==""){
+          return <div  key = {index} className="columns portfolio-item">
            <div className="item-wrap">
               <a href={project.url} target="_blank">
                  <img alt="" src={imageUrl} />

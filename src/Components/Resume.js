@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import WorkRoles from './WorkRoles'
 
 class Resume extends Component {
   render() {
@@ -16,15 +15,28 @@ class Resume extends Component {
         </div>
       });
 
-      var work = this.props.data.work.map(function(job){
-        return <div key={job.company} className="row item">
+      var work = this.props.data.work.map(function(job, index){
+        return <div key={index} className="row item">
            <div className="twelve columns">
               <h3>{job.company}</h3>
-              <p className="info">{job.title}<span>&bull;</span> <em className="date">{job.years}</em></p>
-
-              <p>
-               {job.roles.map((role)=> <WorkRoles role={role} />)}
+              <p className="info">
+                  {job.title}<span>&bull;</span> <em className="date">{job.years}</em>
               </p>
+              <ul>
+                  {job.roles.map((role,index)=> <li key={index}> * {role}</li>)}
+              </ul>
+              <ul>
+                  {job.links 
+                  ? job.links.map((link)=> Object.entries(link).map(([key,value])=>{
+                     return (
+                       <li  key={key}>
+                         <a href={value.toString()} target="_blank">{key}</a>
+                       </li>
+                     )
+                   }))
+                  :null 
+                  }
+               </ul>
            </div>
         </div>
       });

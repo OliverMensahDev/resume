@@ -3,8 +3,8 @@ import React, { Component } from 'react';
 class Testimonials extends Component {
   render() {
     if(this.props.data){
-      var testimonials = this.props.data.testimonials.map(function(testimonial){
-        return <li>
+      var testimonials = this.props.data.testimonials.map(function(testimonial, index){
+        return <li key={index}>
            <blockquote>
               <p>{testimonial.text}
               </p>

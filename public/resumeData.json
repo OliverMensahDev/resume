@@ -54,12 +54,6 @@
 				"degree": "Bsc. Computer Science",
 				"graduated": "June 2018",
 				"description": "Ashesi's Computer Science programme focuses not only on software design and programming, but also on empowering young people to be at the forefront of African growth by harnessing the power of technology."
-			},
-			{
-				"school": "Sefwi Bekwai Senior High School",
-				"degree": "Agriculture Science(WASSCE)",
-				"graduated": "May 2012",
-				"description": ""
 			}
 		],
 		"work": [
@@ -97,11 +91,17 @@
 				"title": "Android Application Development Trainer",
 				"years": "August 2018",
 				"roles": [
-					"Designed the curriculum for the boot-camp. ",
-					"Trained 8 participants from zero programming background to the level where they built their own projects."
+					"Designed the curriculum for the bootcamp. ",
+					"Worked with organizers to understand participants training needs and developed effective program",
+					"Reviewed and revised training materials to reflect participants needs",
+					"Trained 8 participants with zero programming background and about 80% of them developed their complete projects"
+				],
+				"links": [
+					{
+						"WAPMASS Android Development Bootcamp: Class Session": "https://www.youtube.com/watch?v=5oXxhjCScYE&t=4s"
+					}
 				]
 			},
-
 
 			{
 				"company": "Auth0",
@@ -110,17 +110,27 @@
 				"roles": [
 					"Research the latest technologies. ",
 					"Write a technical blog post about it that will be useful for thousands of people on how to build software around those technologies"
+				], 
+				"links": [
+					{
+						"Creating Beautiful Apps with Angular Material": "https://auth0.com/blog/creating-beautiful-apps-with-angular-material/",
+						"My Article Ranked among Angular Top 10 Articles for the Past Month (v.June 2018)": "https://medium.mybridge.co/angular-top-10-articles-for-the-past-month-v-june-2018-969a00e0c451"
+					}
 				]
 			},
 			{
 				"company": "Facebook",
-				"title": "Facebook Developer Circle Accra, Co-Lead",
+				"title": "Facebook Developer Circle Accra, Co-Lead(Volunteer)",
 				"years": "August 2017 - Present",
 				"roles": [
-					"Technology event organization",
-					"Community management" ,
-					"Build the technology scene in Ghana"
-				]		
+					"Technology-based event portfolio: Innovate new types of events",
+					"Establishing Partnerships with other tech communities, developers and startups" ,
+					"Nurturing tech ecosystem in Ghana",
+					"Content Planning",
+					"Event Planning",
+					"Event Marketing",
+					"Event Execution"
+				]
 			},
 			{
 				"company": "DMM Ghana",
@@ -167,11 +177,11 @@
 				"level": "80%"
 			},
 			{
-				"name": "Software Design and Implementation",
+				"name": "Software Design, Architecture and Implementation",
 				"level": "80%"
 			},
 			{
-				"name": "Webservices Design and Implementation",
+				"name": "Web Services Design and Implementation",
 				"level": "80%"
 			},
 			{
@@ -179,11 +189,11 @@
 				"level": "70%"
 			},
 			{
-				"name": "Desktop Development",
+				"name": "Desktop Development with Java and JavaScript",
 				"level": "70%"
 			},
 			{
-				"name": "Web Development",
+				"name": "Web Development With PHP, Node.js, Golang",
 				"level": "70%"
 			}
 			,
