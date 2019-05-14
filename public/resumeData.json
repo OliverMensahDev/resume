@@ -214,25 +214,42 @@
 	},
 	"portfolio": {
 		"projects": [
-			{
-				"title":"The barePHP Framework",
-				"description":"A mirocframework for building web application with PHP. barePHP focuses on MVC architectural pattern, design patterns like Registry to provide beginner friendly minimal approach to building PHP web application.",
-				"category":"Software Engineering",
-				"tags":"Framework, Web Design",
-				"image":"barephp.png",
-				"url":"https://github.com/OliverMensahDev/barePHP",
-				"modal":"#modal-01"
-			  },
-			  {
-				"title":"SyncCases",
-				"description":"This was my class project. It was supposed to be completed in two so it has a lot more work to be done on it. SyncCases is an app that allows you users to be vigilante on our roads . Users report road users who do not adhere to rules on our roads. Users capture and report culprits to authorities and let the authorities handle the rest",
-				"category":"Software Engineering",
-				"tags":"Mobile, Android",
-				"image":"synccases.png",
-				"url":"https://play.google.com/store/apps/details?id=com.github.olivermensah.synccases",
-				"modal":"#modal-02"
-			  }
-		]
+					{
+						"title":"FBSInnova Mobile Application",
+						"description":"FBSInnova is a functional, modular smartphone application that helps smallholder-farmers have on-demand access to Farmer Business School(FBS) tools and information, plan and efficiently manage their crops and diversify their production for increased profitability and improved livelihoods.",
+						"tags":"Framework, Web Design",
+						"image":"fbsinnova.png",
+						"url":"https://fbsinnova.com",
+						"modal":"#modal-01"
+						},
+						{
+							"title":"InnovaSync Mobile Application",
+							"description":"A mobile application to undertake nationwide biometric registration of poultry farmers in Ghana. This project was a contract between Agro Innova Company Ltd and The Ghana National Poultry Farmers Association (GNPFA)",
+							"category":"Software Engineering",
+							"tags":"Framework, Web Design",
+							"image":"barephp.png",
+							"url":"https://www.graphic.com.gh/business/business-news/gnapf-to-undertake-nationwide-biometric-registration-of-poultry-farmers.html",
+							"modal":"#modal-01"
+							},
+						{
+							"title":"The barePHP Framework",
+							"description":"A mirocframework for building web application with PHP. barePHP focuses on MVC architectural pattern, design patterns like Registry to provide beginner friendly minimal approach to building PHP web application.",
+							"category":"Software Engineering",
+							"tags":"Framework, Web Design",
+							"image":"barephp.png",
+							"url":"https://github.com/OliverMensahDev/barePHP",
+							"modal":"#modal-01"
+							},
+							{
+							"title":"SyncCases",
+							"description":"This was my class project. It was supposed to be completed in two so it has a lot more work to be done on it. SyncCases is an app that allows you users to be vigilante on our roads . Users report road users who do not adhere to rules on our roads. Users capture and report culprits to authorities and let the authorities handle the rest",
+							"category":"Software Engineering",
+							"tags":"Mobile, Android",
+							"image":"synccases.png",
+							"url":"https://play.google.com/store/apps/details?id=com.github.olivermensah.synccases",
+							"modal":"#modal-02"
+							}
+				]
 	},
 	"testimonials": {
 		"testimonials": [
