@@ -2,8 +2,9 @@
 	"main": {
 		"name": "Oliver  Mensah",
 		"occupation": "Software Developer",
-		"description": "He currently develops  Mobile apps(Android), Desktop, Web Applications as well as Web services and APIs. If he is not working on a software project, he is either writing technical articles, reading on software architecture and design or actively involved in building the tech ecosystem in Ghana.  He lives by the mantra; 'The best way to solidify your understanding of what you learn is by teaching it to others',",
-		"bio": "Oliver now writes software at Agro Innova as a National Service Personnel. He is passionate about the people and technical aspect of the software industry. By 'people' he meant the developer community and by 'technical' he meant the whole design and implementation of technical decisions of software application.",
+		"description": "Oliver writes software at Agro Innova as a National Service Personnel. He is passionate about the people and technical aspect of the software industry. By 'people' he meant the developer community and by 'technical' he meant the whole design and implementation of technical decisions of software application.",
+		
+		"bio": "Software Developer, Developer Community Builder, Technical Speaker, Writer & Trainer, Currently a National Service Personnel at Agro Innova Company Limited",
 		"email": "olivermensah96@gmail.com",
 		"image": "profilepic.jpg",
 		"phone": "(+233)0544892841",
