@@ -16,7 +16,8 @@
 		},
 		"website": "https://OliverMensahDev.github.io",
 		"resumedownload": "https://www.dropbox.com/s/n7ugo0v1tqs13pn/resume.pdf?dl=0",
-		"social": [{
+		"social": [
+			{
 				"name": "Facebook",
 				"url": "https://www.facebook.com/OliverMensahDev",
 				"className": "fa fa-facebook"
