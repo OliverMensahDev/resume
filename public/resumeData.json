@@ -67,7 +67,7 @@
 				]
 			},
 			{
-				"company": "Agro Innova",
+				"company": "Agro Innova Company Ltd",
 				"title": "Software Development Lead - National Service Personnel",
 				"years": "January 2019 - August 2019",
 				"roles": [
@@ -81,10 +81,15 @@
 					"Constructed and implemented a well comprehensive road map for our products",
 					"Used stakeholders’ feedback to inform the necessary improvements and adjustments to technology",
 					"Communicated technology strategy to partners and investors"
-				]
+				],
+				"links": {
+					"App on Play Store": "https://play.google.com/store/apps/details?id=com.agroinnova.farmerbusinessschool&hl=en",
+					"Design Thinking Phase of the FBSInnova App Development": "https://www.snrd-africa.net/where-are-we-at-with-the-fbs-mobile-application-development/",
+					"Featured on YPard": "https://ypard.net/sites/default/files/resources/agrbiz4change_conference_report_sans_email.pdf"
+				}
 			},
 			{
-				"company": "Agro Innova",
+				"company": "Agro Innova Company Ltd",
 				"title": "Software Developer - National Service Personnel",
 				"years": "September  - December 2018",
 				"roles": [
@@ -92,7 +97,11 @@
 					"Engaged in user testing of application in selected rural communities in Ghana",
 					"Collaborated with German Corporation for International Cooperation in a design thinking workshop geared towards digitizing cocoa farmers operations in Ghana",
 					"Designed, implemented and executed the overall architecture of the Farmer Business School mobile application; digitized cocoa farmers operations in Ghana"
-				]
+				],
+				"links": {
+					"GNPFA to undertake nationwide biometric registration of poultry farmers":"https://www.businessghana.com/site/news/business/171814/GNPFA-to-undertake-nationwide-biometric-registration-of-poultry-farmers",
+					"User testing of Innovasync in Ashanti Region, Ghana": "https://omensahblog.wordpress.com/2019/02/01/user-testing-of-innovasync-in-ashanti-region-ghana/"
+				}
 			},
 
 			{
