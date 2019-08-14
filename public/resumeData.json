@@ -17,22 +17,22 @@
 		"website": "https://OliverMensahDev.github.io",
 		"resumedownload": "https://www.dropbox.com/s/n7ugo0v1tqs13pn/resume.pdf?dl=0",
 		"social": [{
-				"name": "facebook",
+				"name": "Facebook",
 				"url": "https://www.facebook.com/OliverMensahDev",
 				"className": "fa fa-facebook"
 			},
 			{
-				"name": "twitter",
+				"name": "Twitter",
 				"url": "https://twitter.com/OliverMensahDev",
 				"className": "fa fa-twitter"
 			},
 			{
-				"name": "linkedin",
+				"name": "LinkedLn",
 				"url": "https://gh.linkedin.com/in/OliverMensahDev",
 				"className": "fa fa-linkedin"
 			},
 			{
-				"name": "github",
+				"name": "GitHub",
 				"url": "https://github.com/OliverMensahDev",
 				"className": "fa fa-github"
 			},
@@ -42,9 +42,14 @@
 				"className": "fa fa-instagram"
 			},
 			{
-				"name": "youtube",
+				"name": "Youtube",
 				"url": "https://www.youtube.com/channel/UC02RSWT41_LJ9UOM558G-1Q",
 				"className": "fa fa-youtube"
+			},
+			{
+				"name": "Dev.to",
+				"url": "https://dev.to/olivermensahdev",
+				"className": "fab fa-dev"
 			}
 		]
 	},
