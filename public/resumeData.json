@@ -2,9 +2,9 @@
 	"main": {
 		"name": "Oliver  Mensah",
 		"occupation": "Software Developer",
-		"description": "Oliver writes software at Agro Innova as a National Service Personnel. He is passionate about the people and technical aspect of the software industry. By 'people' he meant the developer community and by 'technical' he meant the whole design and implementation of technical decisions of software application.",
+		"description": "Oliver currently engineers software product at DevLess. He is passionate about the people and technical aspect of the software industry. By 'people' he meant the developer community and by 'technical' he meant the whole design and implementation of technical decisions of software application.",
 		
-		"bio": "Software Developer, Developer Community Builder, Technical Speaker, Writer & Trainer, Currently a National Service Personnel at Agro Innova Company Limited",
+		"bio": "Engineering Software @DevLess |Growing Tech Communities @DevCAccra |Technical Speaker, Writer&Trainer",
 		"email": "olivermensah96@gmail.com",
 		"image": "profilepic.jpg",
 		"phone": "(+233)0544892841",
@@ -59,20 +59,28 @@
 		],
 		"work": [
 			{
+				"company": "DevLess",
+				"title": "Software Developer",
+				"years": "August 2019 - Present ",
+				"roles": [
+					"Design, implement and execute the overall architecture of the company’s applications"
+				]
+			},
+			{
 				"company": "Agro Innova",
 				"title": "Software Development Lead - National Service Personnel",
-				"years": "January 2019 -Present ",
+				"years": "January 2019 - August 2019",
 				"roles": [
-					"Design, implement and execute the overall architecture of the company’s application",
-					"Develop technical aspects of the company’s strategy to ensure alignment with its business goals",
-					"Discover and implement new technologies that yield competitive advantage",
-					"Help departments use technology profitably", 
-					"Supervise system infrastructure to ensure functionality and efficiency",
-					"Build quality assurance and data protection processes",
-					"Monitor KPIs and IT budgets to assess technological performance",
-					"Construct and implement a well comprehensive road map for our products",
-					"Use stakeholders’ feedback to inform the necessary improvements and adjustments to technology",
-					"Communicate technology strategy to partners and investors"
+					"Designed, implemented and executed the overall architecture of the company’s applications like FBSInnova, Akokotakra",
+					"Developed technical aspects of the company’s strategy to ensure alignment with its business goals",
+					"Discovered and implemented new technologies that yield competitive advantage",
+					"Helped departments use technology profitably", 
+					"Supervised system infrastructure to ensure functionality and efficiency",
+					"Built quality assurance and data protection processes",
+					"Monitored KPIs and IT budgets to assess technological performance",
+					"Constructed and implemented a well comprehensive road map for our products",
+					"Used stakeholders’ feedback to inform the necessary improvements and adjustments to technology",
+					"Communicated technology strategy to partners and investors"
 				]
 			},
 			{
