@@ -23,7 +23,7 @@ class Resume extends Component {
                   {job.title}<span>&bull;</span> <em className="date">{job.years}</em>
               </p>
               <ul>
-                  {job.roles.map((role,index)=> <li key={index}> * {role}</li>)}
+                  {job.roles.map((role,index)=> <li key={index}>{role}</li>)}
               </ul>
               <ul>
                   {job.links 
@@ -60,7 +60,7 @@ class Resume extends Component {
 
       <div className="row work">
          <div className="three columns header-col">
-            <h1><span>Work</span></h1>
+            <h1><span>Experience</span></h1>
          </div>
 
          <div className="nine columns main-col">
