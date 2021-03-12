@@ -269,17 +269,6 @@ async-each@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/async-each/-/async-each-1.0.1.tgz#19d386a1d9edc6e7c1c85d388aedbcc56d33602d"
 
-<<<<<<< HEAD
-async@2.1.4:
-  version "2.1.4"
-  resolved "https://registry.yarnpkg.com/async/-/async-2.1.4.tgz#2d2160c7788032e4dd6cbe2502f1f9a2c8f6cde4"
-  dependencies:
-    lodash "^4.14.0"
-
-async@^1.5.2:
-||||||| parent of 26471ec (Bump jquery from 3.2.1 to 3.5.0)
-async@^1.4.0, async@^1.5.2:
-=======
 async@2.1.4:
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/async/-/async-2.1.4.tgz#2d2160c7788032e4dd6cbe2502f1f9a2c8f6cde4"
@@ -287,7 +276,6 @@ async@2.1.4:
     lodash "^4.14.0"
 
 async@^1.4.0, async@^1.5.2:
->>>>>>> 26471ec (Bump jquery from 3.2.1 to 3.5.0)
   version "1.5.2"
   resolved "https://registry.yarnpkg.com/async/-/async-1.5.2.tgz#ec6a61ae56480c0c3cb241c95618e20892f9672a"
 
